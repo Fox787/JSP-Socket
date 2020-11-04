@@ -1,6 +1,8 @@
 # JSP-Socket
 Java Server Page application ran through tomcat to query database
+
 JSP Servlet- RESTful API
+
 Reciving commands and assoicating with correct table and command:
 "http://localhost:8080/%warfile%/api/grocery/" or "http://localhost:8080/%warfile%/api/items/"
 request call depenends on specific call
