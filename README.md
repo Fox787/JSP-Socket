@@ -1,2 +1,8 @@
 # JSP-Socket
 Java Server Page application ran through tomcat to query database
+JSP Servlet and API that acts on Get/Post/DEL and PUT requests over direct connection to api
+Reciving commands and assoicating with correct table and command:
+"http://localhost:8080/%warfile%/api/grocery/" or "http://localhost:8080/%warfile%/api/items/"
+request call depenends on specific call
+
+Compliled in Java 8, Ran on Xampp and Tomcat servers
