@@ -6,3 +6,4 @@ Reciving commands and assoicating with correct table and command:
 request call depenends on specific call
 
 Compliled in Java 8, Ran on Xampp and Tomcat servers
+using Postman (https://www.postman.com/) for server calls and execution.
